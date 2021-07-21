@@ -1,6 +1,5 @@
 link to deployment 
-
-https://hulu-clone-eft1iwi0k-ziyaadlakay.vercel.app/
+https://hulu-clone-ziyaadlakay.vercel.app/
 
 This is a Hulu Clone Using React.js, Next.js and Tailwind.css
 
