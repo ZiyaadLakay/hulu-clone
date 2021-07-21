@@ -1,3 +1,7 @@
+link to deployment 
+
+https://hulu-clone-eft1iwi0k-ziyaadlakay.vercel.app/
+
 This is a Hulu Clone Using React.js, Next.js and Tailwind.css
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
